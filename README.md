@@ -5,7 +5,7 @@
 > Proyek ini dikembangkan oleh Tim CC25-CF297 sebagai bagian dari program Studi Independen di Dicoding Indonesia.  
 > Brainomaly adalah sistem klasifikasi citra MRI otak untuk mendeteksi jenis tumor secara otomatis menggunakan CNN.
 
-Tim Pengembang
+## 👥 Tim Pengembang
 | Role | Nama                          | ID Peserta   | Universitas              |
 | ---- | ----------------------------- | ------------ | ------------------------ |
 | ML   | Briliona                      | MC325D5X0667 | Universitas Tarumanagara |
