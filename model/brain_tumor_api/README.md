@@ -22,3 +22,6 @@ Hasil prediksi  akan  muncul  di  bagian  bawah:
 label: jenis  tumor (misalnya: Glioma,  No  Tumor,  dll)
 confidence: seberapa  yakin  modelnya
 class_id: indeks  kelas
+
+Jika ingin melihat link deploy Railway 
+https://brain-tumor-api.up.railway.app/
